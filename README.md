@@ -1,3 +1,7 @@
+## Sample Application -  Ruby on Rails
+
+This application allows adding a Comment and deleting an existing comment on the blog.
+
 ##### Prerequisites
 
 The setups steps expect following tools installed on the system.
